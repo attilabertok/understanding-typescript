@@ -1,1 +1,1 @@
-console.log("typescript installation test!");
+console.log("typescript installation test");

@@ -1,0 +1,28 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "Code samples for Maximillian Schwartzmüller's Understanding TypeScript Udemy course",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attilabertok/understanding-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "udemy",
+    "learning"
+  ],
+  "author": "Attila Bertók",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attilabertok/understanding-typescript/issues"
+  },
+  "homepage": "https://github.com/attilabertok/understanding-typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
